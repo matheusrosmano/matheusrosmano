@@ -31,4 +31,7 @@ I'm developer, I'm 33 years old. The technologies I work with:
 [<img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-06-256.png" width="40rem" alt="Profile" title="Profile"/>](https://www.linkedin.com/in/matheusrosmano/)
 
 
-And the free time I'm try be youtuber haha
+## Youtube videos
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

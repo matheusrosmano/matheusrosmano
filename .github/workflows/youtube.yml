@@ -1,0 +1,19 @@
+name: Get youtube videos
+
+on:
+  schedule:
+    - cron: '0 5 */15 * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest youtube posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/channel/UC9PtEl8I9hbxQwBgJuRyvTA"
