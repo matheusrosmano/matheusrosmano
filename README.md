@@ -2,7 +2,7 @@
 
 Hi, nice to meet you.
 
-I'm developer, I'm 33 years old. The technologies I work with:
+I'm developer, the technologies I work with:
 
 * GIT (Gitlab, Github)
 * Automação (Gitlab-ci, Github actions)
